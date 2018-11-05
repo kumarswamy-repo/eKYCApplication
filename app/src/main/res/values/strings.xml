@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">eKYC</string>
+    <string name="action_settings">Settings</string>
+    <string name="ekyc">eKYC</string>
+    <string name="passport">PASSPORT</string>
+    <string name="pan">PAN CARD</string>
+    <string name="aadhar">AADHAR</string>
+    <string name="default_description">Place Doc inside the box</string>
+    <string name="pic_title">%1$s Page of %2$s</string>
+    <string name="review_title">%1$s page Review of %2$s</string>
+    <string name="review_selie_title">Review you photo</string>
+    <string name="retake">RETAKE</string>
+    <string name="next">NEXT</string>
+    <string name="done">DONE</string>
+    <string name="matched">Matched : %1$s</string>
+    <string name="confidence">Confidence : %1$s</string>
+</resources>
